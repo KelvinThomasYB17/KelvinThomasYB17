@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KelvinThomasYB17 and my name is Kelvin Thomas Yllahuamán Bonifas
-- 👀 I’m interested in electronic devices, ioT and programming.
-- 🌱 I’m currently learning about python and pandas.
+- 👀 I’m interested in electronic devices, hardware design and programming.
+- 🌱 I’m currently learning about machine learning to improve hardware.
 - 💞️ I’m looking to collaborate on hardware description in VHDL and Verilog. 
 
 <!---
